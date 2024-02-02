@@ -43,7 +43,7 @@ In each branch, you'll find default code providing a foundational structure for 
    - Implement the property && directive do.
    - Implement the Two-way Data Binding use NgModel directive.
    - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
-   - [Data Binding (Live)](https://ng-pratice-git-data-binding-form-frontendprofile.vercel.app/?_vercel_share=tRIps4tApHsotcpyAy3uvrh6fMvmmR0V)
+   - [Directives + assignment (Live)](https://ng-pratice-git-directives-frontendprofile.vercel.app?_vercel_share=dKUhMG2EAQZ01Gsbr6KWLh7hb9aaiwos)
 
 
 ### Development server
