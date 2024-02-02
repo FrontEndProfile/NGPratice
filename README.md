@@ -21,18 +21,30 @@ In each branch, you'll find default code providing a foundational structure for 
 
 ## Projects
 
-1. **Project 1: [ Basic Layout App ]**
-   - `Description:` Basic Layout for Project duplicates for each projects .
+1. ### Project : Basic Layout App <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Basic App</span>
+
+   `Description:` 
+   - Basic Layout for Project duplicates for each projects .
    - add basic three pages [ home || about || contact ].
    - [ https://ng-pratice.vercel.app ]
 #
-2. **Project 2: [Title]**
-   - `Description:` Brief description of the project.
-   - [Link to Project 2]
+2. ### Project : Data Binding  <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Assignment</span>
 
-3. **Project 3: [Title]**
-   - `Description:` Brief description of the project.
-   - [Link to Project 3]
+    `Description:` 
+   - Implement the property && directive do.
+   - Implement the Two-way Data Binding use NgModel directive.
+   - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
+   - [Data Binding (Live)](https://ng-pratice-git-data-binding-form-frontendprofile.vercel.app/?_vercel_share=tRIps4tApHsotcpyAy3uvrh6fMvmmR0V)
+
+#
+3. ### Project : Directives <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Assignment</span>
+
+    `Description:` 
+   - Implement the property && directive do.
+   - Implement the Two-way Data Binding use NgModel directive.
+   - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
+   - [Data Binding (Live)](https://ng-pratice-git-data-binding-form-frontendprofile.vercel.app/?_vercel_share=tRIps4tApHsotcpyAy3uvrh6fMvmmR0V)
+
 
 ### Development server
 
