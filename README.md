@@ -21,14 +21,14 @@ In each branch, you'll find default code providing a foundational structure for 
 
 ## Projects
 
-1. ### Project : Basic Layout App <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Basic App</span>
+1. ### Project : Basic Layout App
 
    `Description:` 
    - Basic Layout for Project duplicates for each projects .
    - add basic three pages [ home || about || contact ].
    - [ https://ng-pratice.vercel.app ]
 #
-2. ### Project : Data Binding  <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Assignment</span>
+2. ### Project : Data Binding 
 
     `Description:` 
    - Implement the property && directive do.
@@ -37,7 +37,7 @@ In each branch, you'll find default code providing a foundational structure for 
    - [Data Binding (Live)](https://ng-pratice-git-data-binding-form-frontendprofile.vercel.app/?_vercel_share=tRIps4tApHsotcpyAy3uvrh6fMvmmR0V)
 
 #
-3. ### Project : Directives <span style="border: 2px solid green; padding: 4px 12px; border-radius: 4px; font-size: 0.7em;">Assignment</span>
+3. ### Project : Directives
 
     `Description:` 
    - Implement the property && directive do.
