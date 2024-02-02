@@ -1,0 +1,19 @@
+
+
+<div class="p-4 border rounded mb-3">
+    <small>do this on html core base logic</small> <br>
+    <button class="btn btn-primary fs-5 mb-4" (click)="showSecret = !showSecret">Display Details</button>
+</div>
+
+<div class="p-4 border rounded mb-3">
+    <small>do this use TS logic make function with add directive ngFor </small> <br>
+    <button class="btn btn-primary fs-5 mb-4" (click)="onToggleDetails()">Display Details</button>
+</div>
+
+<div class="position-relative pt-2 mb-5 pb-5">
+    <p *ngIf="showSecret" class="bg-info p-3 shadow rounded-2 position-absolute w-100">Secret password = tuna</p>
+</div>
+
+<ul *ngFor="let item of log">
+    <li class="p-2" [ngClass]="{'text-info' : item >= 3 , 'bg-success': item >= 3}">Display Btn Clicked : {{ item }}</li>
+</ul>
