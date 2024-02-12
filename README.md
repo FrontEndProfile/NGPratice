@@ -21,18 +21,47 @@ In each branch, you'll find default code providing a foundational structure for 
 
 ## Projects
 
-1. **Project 1: [ Basic Layout App ]**
-   - `Description:` Basic Layout for Project duplicates for each projects .
+1. ### Project : Basic Layout App
+
+   `Description:` 
+   - Basic Layout for Project duplicates for each projects .
    - add basic three pages [ home || about || contact ].
    - [ https://ng-pratice.vercel.app ]
 #
-2. **Project 2: [Title]**
-   - `Description:` Brief description of the project.
-   - [Link to Project 2]
+2. ### Project : Data Binding 
 
-3. **Project 3: [Title]**
-   - `Description:` Brief description of the project.
-   - [Link to Project 3]
+    `Description:` 
+   - Implement the property && directive do.
+   - Implement the Two-way Data Binding use NgModel directive.
+   - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
+   - [Data Binding (Live)](https://ng-pratice-c0ged06hq-frontendprofile.vercel.app/)
+
+#
+3. ### Project : Directives
+
+    `Description:` 
+   - Implement the Two-way Data Binding use NgModel directive.
+   - Assignment Add sever component with click button.
+   - add random number base style use math.floor().
+   - logic base styling.
+   - make the assignment page , make buttons as toggle base show password and check how many times clicks log.
+   - [Directives + assignment (Live)](https://ng-pratice-995hz174a-frontendprofile.vercel.app/)
+
+#   
+
+2. ### Project : Basic App 
+
+    `Description:` 
+   - Implement the modal.ts file.
+   - Implement folder structures.
+   - Implement `*ngfor` loops.
+   - Basic Layout App [ But understand about project in last].
+   - not understanding data move other form of modal and functions.
+   - course author not complete this projects , at the end skip this.
+   - this project experience not good.
+   - [Data Binding (Live)](https://ng-pratice-7zz06tvto-frontendprofile.vercel.app/)
+
+
 
 ### Development server
 
