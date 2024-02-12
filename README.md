@@ -49,7 +49,7 @@ In each branch, you'll find default code providing a foundational structure for 
 
 #   
 
-2. ### Project : The Basic App 
+2. ### Project : Basic App 
 
     `Description:` 
    - Implement the modal.ts file.
@@ -59,7 +59,7 @@ In each branch, you'll find default code providing a foundational structure for 
    - not understanding data move other form of modal and functions.
    - course author not complete this projects , at the end skip this.
    - this project experience not good.
-   - [Data Binding (Live)](https://ng-pratice-c0ged06hq-frontendprofile.vercel.app/)
+   - [Data Binding (Live)](https://ng-pratice-7zz06tvto-frontendprofile.vercel.app/)
 
 
 
