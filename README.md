@@ -1,27 +1,74 @@
-# NgPratice
+# NG Learning Projects at Sabre
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Greetings from Sabre's NG Learning Projects repository! This collection of Angular projects is a result of dedicated learning efforts aimed at enhancing my skills as a front-end developer at Sabre.
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This repository serves as a learning hub where I've undertaken various Angular projects, each residing in its own branch. The purpose is to improve my proficiency in Angular and explore different aspects of front-end development.
 
-## Code scaffolding
+## Project Structure
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Default Code
 
-## Build
+In each branch, you'll find default code providing a foundational structure for the respective project. It includes essential elements such as:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Basic layout setup
+- Bootstrap for CSS
+- Routes Setup
+- Angular CLI commands for development, deployment.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Projects
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. ### Project : Basic Layout App
 
-## Further help
+   `Description:` 
+   - Basic Layout for Project duplicates for each projects .
+   - add basic three pages [ home || about || contact ].
+   - [ https://ng-pratice.vercel.app ]
+#
+2. ### Project : Data Binding 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+    `Description:` 
+   - Implement the property && directive do.
+   - Implement the Two-way Data Binding use NgModel directive.
+   - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
+   - [Data Binding (Live)](https://ng-pratice-c0ged06hq-frontendprofile.vercel.app/)
+
+#
+3. ### Project : Directives
+
+    `Description:` 
+   - Implement the Two-way Data Binding use NgModel directive.
+   - Assignment Add sever component with click button.
+   - add random number base style use math.floor().
+   - logic base styling.
+   - make the assignment page , make buttons as toggle base show password and check how many times clicks log.
+   - [Directives + assignment (Live)](https://ng-pratice-995hz174a-frontendprofile.vercel.app/)
+
+#   
+
+2. ### Project : Basic App 
+
+    `Description:` 
+   - Implement the modal.ts file.
+   - Implement folder structures.
+   - Implement `*ngfor` loops.
+   - Basic Layout App [ But understand about project in last].
+   - not understanding data move other form of modal and functions.
+   - course author not complete this projects , at the end skip this.
+   - this project experience not good.
+   - [Data Binding (Live)](https://ng-pratice-7zz06tvto-frontendprofile.vercel.app/)
+
+
+
+### Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.   
+
+## Learning Progress
+
+Feel free to explore each project's branch to gain insights into my learning journey and the specific skills exercised in each project.
+
+Happy coding and learning!
