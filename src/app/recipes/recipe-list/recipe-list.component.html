@@ -5,8 +5,9 @@
 </div>
 
 <div class="row">
-    <div class="col-md-12">
-        <a href="#" class="list-group-item clearfix bg-body-secondary p-3 my-2 d-flex justify-content-between align-items-center w-50" *ngFor="let item of recipes">
+    <hr class="my-4">
+    <div class="col-md-12 list-group my-4">
+        <a href="#" class="list-group-item p-3 d-flex justify-content-between align-items-center w-50 list-group-item" *ngFor="let item of recipes">
             <div class="pull-left w-75">
                 <h4 class="list-group-item-secondary">{{ item.name }}</h4>
                 <p class="">{{ item.description }}</p>
