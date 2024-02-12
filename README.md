@@ -34,16 +34,18 @@ In each branch, you'll find default code providing a foundational structure for 
    - Implement the property && directive do.
    - Implement the Two-way Data Binding use NgModel directive.
    - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
-   - [Data Binding (Live)](https://ng-pratice-git-data-binding-form-frontendprofile.vercel.app/?_vercel_share=tRIps4tApHsotcpyAy3uvrh6fMvmmR0V)
+   - [Data Binding (Live)](https://ng-pratice-c0ged06hq-frontendprofile.vercel.app/)
 
 #
 3. ### Project : Directives
 
     `Description:` 
-   - Implement the property && directive do.
    - Implement the Two-way Data Binding use NgModel directive.
-   - see whats differences between property binding `[ ]` && directive and events tigers `( )`.
-   - [Directives + assignment (Live)](https://ng-pratice-git-directives-frontendprofile.vercel.app?_vercel_share=dKUhMG2EAQZ01Gsbr6KWLh7hb9aaiwos)
+   - Assignment Add sever component with click button.
+   - add random number base style use math.floor().
+   - logic base styling.
+   - make the assignment page , make buttons as toggle base show password and check how many times clicks log.
+   - [Directives + assignment (Live)](https://ng-pratice-995hz174a-frontendprofile.vercel.app/)
 
 
 ### Development server
