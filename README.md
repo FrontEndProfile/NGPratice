@@ -47,6 +47,21 @@ In each branch, you'll find default code providing a foundational structure for 
    - make the assignment page , make buttons as toggle base show password and check how many times clicks log.
    - [Directives + assignment (Live)](https://ng-pratice-995hz174a-frontendprofile.vercel.app/)
 
+#   
+
+2. ### Project : Basic App 
+
+    `Description:` 
+   - Implement the modal.ts file.
+   - Implement folder structures.
+   - Implement `*ngfor` loops.
+   - Basic Layout App [ But understand about project in last].
+   - not understanding data move other form of modal and functions.
+   - course author not complete this projects , at the end skip this.
+   - this project experience not good.
+   - [Data Binding (Live)](https://ng-pratice-7zz06tvto-frontendprofile.vercel.app/)
+
+
 
 ### Development server
 
