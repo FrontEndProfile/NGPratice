@@ -60,6 +60,7 @@ In each branch, you'll find default code providing a foundational structure for 
    - course author not complete this projects , at the end skip this.
    - this project experience not good.
    - [Data Binding (Live)](https://ng-pratice-7zz06tvto-frontendprofile.vercel.app/)
+   - test
 
 
 
