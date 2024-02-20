@@ -10,9 +10,7 @@ export class ServersComponent implements OnInit {
   serverName = '';
   ServerCreationsStatus = 'No server was crated !';
   serverCreated = false;
-
   servers = [ 'sever 1' , 'server 2']
-
 
   ngOnInit() {
   }
@@ -21,8 +19,6 @@ export class ServersComponent implements OnInit {
       this.allowNewServer = true
     }, 2000);
   }
-
-
 
   onCreateServer() {
     this.ServerCreationsStatus = "Sever Was Crated! Name is " + this.serverName;
