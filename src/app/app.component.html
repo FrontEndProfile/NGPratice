@@ -2,8 +2,8 @@
   <app-cockpit></app-cockpit>
   <hr>
   <div class="row">
-    <div class="col-xs-12">
-      <app-server-element *ngFor="let serverElement of serverElements"></app-server-element>
+    <div class="col-xs-12 list-group">
+      <app-server-element class="list-group-item" *ngFor="let serverElement of serverElements" [srvElement]="serverElement"></app-server-element>
     </div>
   </div>
 </div>
