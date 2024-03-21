@@ -9,6 +9,7 @@ import { AboutComponent } from './page/about/about.component';
 import { ContactComponent } from './page/contact/contact.component';
 import { RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { HighlightDirective } from './highlight.directive';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { FormsModule } from '@angular/forms';
     NavbarComponent,
     HomeComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    HighlightDirective
   ],
   imports: [
     BrowserModule,

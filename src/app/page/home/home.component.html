@@ -1,1 +1,26 @@
-<p>Home Page</p>
+<p>Section 7: Directives Deep Dive</p>
+
+<hr>
+
+<section>
+    <button class="btn btn-primary" (click)="onlyOdd = !onlyOdd">Only show odd number</button>
+    <br>
+    <br>
+    <ul class="list-group">
+        <ng-container *ngIf="onlyOdd">
+            <li class="list-group-item" 
+            [ngClass]="{odd : odd % 2 !== 0}" 
+            [ngStyle]="{backgroundColor : odd % 2 !== 0 ? 'yellow' : 'transparent'}" 
+            *ngFor="let odd of oddNumber">{{ odd}}</li>
+        </ng-container>
+        <ng-container *ngIf="!onlyOdd">
+            <li class="list-group-item" 
+            [ngStyle]="{backgroundColor : even % 2 !== 0 ? 'yellow' : 'transparent'}" 
+            *ngFor="let even of evenNumber">{{ even}}</li>
+        </ng-container>
+    </ul>
+
+    <hr>
+    <p appBasicHighlight>Check basic Directives style form file</p>
+    <p appBetterHighlight>Check basic Directives Better form file</p>
+</section>
